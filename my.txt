@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F582-1B03
+
+ Directory of C:\Users\Tsering Sandup Ukyab\Desktop\SandupUkyab
+
+03/29/2017  09:39 PM    <DIR>          .
+03/29/2017  09:39 PM    <DIR>          ..
+03/29/2017  06:55 PM            11,686 adfa.docx
+03/29/2017  09:39 PM                 0 my.txt
+03/29/2017  06:54 PM                18 README.md
+               3 File(s)         11,704 bytes
+               2 Dir(s)  429,252,706,304 bytes free
